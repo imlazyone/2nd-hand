@@ -1,2 +1,2 @@
-# storage
-Just hosting/store random stuff
+# Random
+Really random stuff...
